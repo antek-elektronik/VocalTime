@@ -9,5 +9,5 @@ VocalTime to projekt czytający co minutę aktualną godzinę moim głosem. Nie 
 - zainstalowany moduł pydub
 - zainstalowany kodek Libavcodec
 
-##uruchomienie
+## uruchomienie
 - uruchomienie skryptu VocalTime.py w tej samej lokalizacji co folder resources
