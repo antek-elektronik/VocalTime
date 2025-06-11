@@ -6,7 +6,7 @@ VocalTime to projekt czytający co minutę aktualną godzinę moim głosem. Nie 
 
 ## wymagania
 - python3
-- zainstalowany moduł pydub
+- zainstalowany moduł [pydub](https://github.com/jiaaro/pydub)
 - zainstalowany kodek Libavcodec
 
 ## uruchomienie
